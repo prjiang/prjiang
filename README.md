@@ -1,1 +1,1 @@
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prjiang&theme=vue-dark&layout=compact&card_width=445)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prjiang&theme=buefy&layout=compact&card_width=445)
